@@ -1,1 +1,2 @@
-some text in master
+merge conflict will happern
+
