@@ -1,1 +1,2 @@
 Hi, we are learing git 
+I have commited before. Now I change some text in the file test.txt to see the power of git.
